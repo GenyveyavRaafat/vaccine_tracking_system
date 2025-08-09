@@ -22,7 +22,7 @@ Key features:
    g++ main.cpp -o vaccine_tracker
 3. **Run the program**
    ```bash
-./vaccine_tracker
+   ./vaccine_tracker
 📌 Future Improvements
    Online Database – Store registrations in a remote database instead of local memory.
    User Authentication – Allow users to securely log in and view their vaccine status.
